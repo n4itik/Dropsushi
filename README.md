@@ -1,4 +1,4 @@
-# Dropsushi <img src="sushi.png" width="32" height="32">
+# Dropsushi
 
 This landing page serves as the online gateway for a Japanese food delivery service, providing customers with a convenient platform to explore and order a wide range of delicious Japanese dishes.
 
