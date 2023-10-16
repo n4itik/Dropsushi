@@ -15,10 +15,6 @@ This landing page serves as the online gateway for a Japanese food delivery serv
 - HTML
 - CSS
 
-### What I learned
-
-This project provided me with valuable experience in handling complex webpage layouts, allowing me to enhance my skills in managing intricate design structures effectively.
-
 ### Acknowledgements
 
 [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
