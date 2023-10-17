@@ -63,7 +63,7 @@
 .header__menu-mobile {
   display: none;
   gap: 20px;
-
+  font-family: var(--plus-jakarta-sans);
   position: relative;
 }
 
@@ -103,8 +103,5 @@
     right: 1.5rem;
     cursor: pointer;
     display: block;
-  }
-  #search-icon {
-    filter: invert(1);
   }
 }
