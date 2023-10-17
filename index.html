@@ -72,23 +72,30 @@
             <img src="assets/search.svg" alt="search" />
           </li>
         </ul>
-        <section class="menu-mobile">
-          <img src="assets/menu.svg" alt="menu" id="menu-icon"/>
-          <ul class="header__menu-mobile" data-aos="fade-down">
-            <li>
-              <a href="#menu">Menu</a>
-            </li>
-            <li>
-              <a href="#food">Food</a>
-            </li>
-            <li>
-              <a href="#services">Services</a>
-            </li>
-            <li>
-              <a href="#about-us">About Us</a>
-            </li>
-          </ul>
-        </section>
+
+        <div id="toggle-menu" class="toggle-menu">
+          <label for="toggle-menu-checkbox">
+            <img src="assets/menu.svg" alt="menu" />
+          </label>
+        </div>
+        <input type="checkbox" class="toggle-menu__checkbox" id="toggle-menu-checkbox">
+        <ul class="header__menu-mobile" data-aos="fade-down">
+          <li>
+            <a href="#menu">MENU</a>
+          </li>
+          <li>
+            <a href="#food">FOOD</a>
+          </li>
+          <li>
+            <a href="#services">SERVICES</a>
+          </li>
+          <li>
+            <a href="#about-us">ABOUT US</a>
+          </li>
+          <li>
+            <img src="assets/search.svg" alt="search" id="search-icon"/>
+          </li>
+        </ul>
       </nav>
     </header>
 
@@ -425,7 +432,6 @@
         </li>
       </ul>
     </footer>
-    <script src="js/main.js" type="module"></script>
 
     <script src="js/script.js" type="module"></script>
   </body>
